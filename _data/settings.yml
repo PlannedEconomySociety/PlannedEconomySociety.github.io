@@ -1,33 +1,33 @@
 # Change 'comments' to true for Disqus comments
 disqus:
   comments: true
-  disqus_shortname: 'apham'
+  disqus_shortname: 'pes'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: 'UA-91332049-1'
+google-ID: ''
 
 menu: 
-  - name: Featured Projects
+  - name: 关于我们
     submenu:
-      - name: MicroBam
+      - name: 愿景与目标
         link: /projects/microbam
-      - name: OurLegacy
+      - name: FAQs
         link: /projects/ourlegacy
-  - name: Posts
+  - name: 文献译介
     link: /
-  - name: Tags
+  - name: 原创成果
     link: /tags
-  - name: About
+  - name: 资料推荐
     link: /about
-  - name: Follow me
+  - name: 联系我们
     submenu:
       - name: GitHub
         icon: github
         link: http://github.com/alainpham
-      - name: LinkedIn
+      - name: QQ
         icon: linkedin-square
         link: http://www.linkedin.com/in/alainpham
-      - name: Twitter
+      - name: 民主计划经济评论
         icon: twitter
         link: https://twitter.com/koint
     
