@@ -23,11 +23,10 @@ menu:
     submenu:
       - name: GitHub
         icon: github
-        link: http://github.com/alainpham
-      - name: QQ
+        link: 
+      - name: 交流群（QQ）
         icon: linkedin-square
-        link: http://www.linkedin.com/in/alainpham
-      - name: 民主计划经济评论
+        link: 
+      - name: 公众号：民主计划经济评论
         icon: twitter
-        link: https://twitter.com/koint
-    
+        link: 
